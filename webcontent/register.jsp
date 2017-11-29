@@ -17,7 +17,7 @@
 <h1>Register</h1>    
 <div style="position:absolute;top:0;right:0;">[<a href="index.jsp">GO HOME</a>]</div>                
 <br>
-    <form method="post" action="server/userAdd.jsp">
+    <form method="post" action="server/registerUser.jsp">
     <table>
     <tr>    
         <td>Username</td><td><input type="text" name="username" required></td>

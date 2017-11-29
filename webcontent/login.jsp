@@ -18,7 +18,7 @@
 	<div style="position:absolute;top:0;right:0;">[<a href="index.jsp">GO HOME</a>]</div>
 <br>
 	<p>Please login to continue...</p>
-	<form method="post" action="server/userCheck.jsp">
+	<form method="post" action="server/checkUser.jsp">
 	<table>
 	<tr>    
 		<td>Username</td><td><input type="text" name="username"></td>
